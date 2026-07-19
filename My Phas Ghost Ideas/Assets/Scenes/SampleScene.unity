@@ -2660,6 +2660,14 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1792039339}
+    - target: {fileID: 8251525843057454729, guid: d444c3eeb8c8cb941ad4f85ae66b8325, type: 3}
+      propertyPath: m_Drag
+      value: 4.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8251525843057454729, guid: d444c3eeb8c8cb941ad4f85ae66b8325, type: 3}
+      propertyPath: m_AngularDrag
+      value: 6.46
+      objectReference: {fileID: 0}
     - target: {fileID: 8672060836236413329, guid: d444c3eeb8c8cb941ad4f85ae66b8325, type: 3}
       propertyPath: m_Speed
       value: 3.5
