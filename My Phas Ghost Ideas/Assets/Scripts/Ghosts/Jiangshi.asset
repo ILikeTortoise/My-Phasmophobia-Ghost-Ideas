@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ghostSpeed: 3.5
   huntThreshhold: 50
-  wonderChance: 60.1
-  eventChance: 20.01
-  interactChance: 30.1
+  wonderChance: 100
+  eventChance: 100
+  interactChance: 100
   huntChance: 20
   hearingRange: 20
